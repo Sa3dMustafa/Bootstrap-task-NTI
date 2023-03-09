@@ -15,14 +15,14 @@ body {
 .container .content .left {
   display: inline-block;
   height: 5px;
-  width: 150px;
+  width: 100px;
   border-radius: 50px;
 }
 
 .container .content .right {
   display: inline-block;
   height: 5px;
-  width: 150px;
+  width: 100px;
   border-radius: 50px;
 }
 
